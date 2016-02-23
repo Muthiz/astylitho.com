@@ -1,4 +1,4 @@
 # astylitho.com
 Asty Litho company website
 
-All image and text copyright Asty-Litho Ltd. 2016
+All image and text Copyright (c) 2016, Asty-Litho Ltd.
